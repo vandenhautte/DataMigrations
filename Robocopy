@@ -1,0 +1,1 @@
+robocopy "sourcepad" "destinationpad" /e /zb /copy:DAT /dcopy:T /r:3 /w:3 /"log+:C:\robocopy.log" /V /NP /TEE /MT:32
